@@ -1,4 +1,4 @@
-# HWT905
+# HWT905-TTL
 Tutorial including manual, datasheet, APK for Android APP, sample code for MCU integration, etc.
 
 RELEASE NOTES
@@ -19,7 +19,7 @@ Document download link:
 
 
 Github 
-https://github.com/WITMOTION/HWT905
+https://github.com/WITMOTION/HWT905-TTL
 
 Google Drive: 
 https://drive.google.com/open?id=1t1ePAQruqrtrFa7YrY5qTjl45rS_r66_
@@ -28,7 +28,7 @@ https://drive.google.com/open?id=1t1ePAQruqrtrFa7YrY5qTjl45rS_r66_
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-HWT905 Playlist: 
+HWT905-TTL Playlist: 
 https://www.youtube.com/watch?v=yDCIK_ZQ0DE&list=PL43tdDrVL_VAWklrpsfI1xJy0s3cW5bv9
 
 -----------
